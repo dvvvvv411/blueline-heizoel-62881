@@ -18,7 +18,7 @@ const Footer = () => {
             <img 
               src="/lovable-uploads/hackmann-heizoel-logo.png" 
               alt="Hackmann-Heizöl" 
-              className="h-24 w-auto mb-4"
+              className="h-16 w-auto mb-4"
             />
                 <p className="text-gray-300 text-sm leading-relaxed">
                   Ihr vertrauensvoller Partner für hochwertiges Heizöl. 

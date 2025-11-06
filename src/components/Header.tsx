@@ -64,7 +64,7 @@ const Header = () => {
             <img 
               src="/lovable-uploads/hackmann-heizoel-logo.png" 
               alt="Hackmann-Heizöl" 
-              className="h-20 w-auto transition-transform duration-300 group-hover:scale-105"
+              className="h-14 w-auto transition-transform duration-300 group-hover:scale-105"
             />
             </Link>
           </div>
