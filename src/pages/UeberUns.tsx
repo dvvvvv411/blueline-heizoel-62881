@@ -72,8 +72,8 @@ const UeberUns = () => {
             </div>
             
             <div className="relative">
-              <div className="absolute inset-0 bg-gradient-to-br from-primary/10 to-red-600/10 rounded-3xl transform rotate-2"></div>
-              <div className="relative bg-white/85 backdrop-blur-md border border-red-200/50 rounded-3xl p-10 shadow-lg hover:shadow-xl hover:bg-white/93 transition-all duration-300">
+              <div className="absolute inset-0 bg-gradient-to-br from-primary/10 to-[#38b9e0]/10 rounded-3xl transform rotate-2"></div>
+              <div className="relative bg-white/85 backdrop-blur-md border border-[#b3f0ff]/50 rounded-3xl p-10 shadow-lg hover:shadow-xl hover:bg-white/93 transition-all duration-300">
                 <div className="text-center mb-8">
                   <div className="w-20 h-20 bg-gradient-to-br from-primary/10 to-primary/5 rounded-2xl flex items-center justify-center mx-auto mb-4">
                     <Award className="w-10 h-10 text-primary" />
@@ -98,9 +98,9 @@ const UeberUns = () => {
                     <span className="text-gray-600 font-medium">Kunden:</span>
                     <span className="font-bold text-primary text-lg">100.000+</span>
                   </div>
-                  <div className="flex justify-between items-center p-4 bg-gradient-to-r from-emerald-50 to-green-50 rounded-xl border-2 border-emerald-300">
+                  <div className="flex justify-between items-center p-4 bg-gradient-to-r from-[#e8f9fd] to-[#d8f5fc] rounded-xl border-2 border-[#b3f0ff]">
                     <span className="text-gray-600 font-medium">Expertise:</span>
-                    <span className="font-bold text-emerald-700 text-xl">50+ Jahre</span>
+                    <span className="font-bold text-[#2698b8] text-xl">50+ Jahre</span>
                   </div>
                   <div className="flex justify-between items-center p-4 bg-gray-50 rounded-xl">
                     <span className="text-gray-600 font-medium">Bestellung:</span>

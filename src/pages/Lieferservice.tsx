@@ -42,8 +42,8 @@ const Lieferservice = () => {
             </p>
             
             <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto pt-8">
-              <div className="group">
-            <div className="relative bg-white/80 backdrop-blur-md border border-red-200/50 rounded-2xl p-6 shadow-md hover:shadow-xl hover:bg-white/90 transition-all duration-300">
+            <div className="group">
+            <div className="relative bg-white/80 backdrop-blur-md border border-[#b3f0ff]/50 rounded-2xl p-6 shadow-md hover:shadow-xl hover:bg-white/90 transition-all duration-300">
                   <div className="absolute inset-0 bg-gradient-to-br from-primary/5 to-transparent rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                   <div className="relative flex flex-col items-center space-y-3">
                     <div className="w-14 h-14 bg-primary/10 rounded-xl flex items-center justify-center">

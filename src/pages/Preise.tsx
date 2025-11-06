@@ -91,10 +91,10 @@ const Preise = () => {
 
             {/* Premium Heizöl Plus */}
             <div className="group relative">
-              <div className="absolute inset-0 bg-gradient-to-br from-primary/10 to-red-600/10 rounded-3xl transform -rotate-1 group-hover:-rotate-2 transition-transform duration-300"></div>
+              <div className="absolute inset-0 bg-gradient-to-br from-primary/10 to-[#38b9e0]/10 rounded-3xl transform -rotate-1 group-hover:-rotate-2 transition-transform duration-300"></div>
               <div className="relative bg-white border-2 border-primary/30 rounded-3xl p-10 shadow-lg hover:shadow-xl transition-all duration-300">
                 <div className="absolute -top-4 left-1/2 transform -translate-x-1/2">
-                  <div className="bg-gradient-to-r from-primary to-red-600 text-white px-6 py-2 rounded-full text-sm font-bold shadow-lg">
+                  <div className="bg-gradient-to-r from-primary to-[#38b9e0] text-white px-6 py-2 rounded-full text-sm font-bold shadow-lg">
                     PREMIUM
                   </div>
                 </div>
@@ -173,8 +173,8 @@ const Preise = () => {
               
               <div className="grid lg:grid-cols-2 gap-12">
                 <div className="relative">
-                  <div className="absolute inset-0 bg-gradient-to-br from-green-50 to-emerald-50 rounded-2xl transform rotate-1"></div>
-                  <div className="relative bg-white border border-green-200/50 rounded-2xl p-8">
+                  <div className="absolute inset-0 bg-gradient-to-br from-[#d8f5fc] to-[#e8f9fd] rounded-2xl transform rotate-1"></div>
+                  <div className="relative bg-white border border-[#b3f0ff]/50 rounded-2xl p-8">
                     <div className="flex items-center mb-6">
                       <div className="w-12 h-12 bg-green-100 rounded-xl flex items-center justify-center mr-4">
                         <span className="text-2xl">✓</span>
