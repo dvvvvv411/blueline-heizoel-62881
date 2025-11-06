@@ -2,22 +2,21 @@
 export const companyStructuredData = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Treffer Heizöl",
-  "alternateName": "Treffer GmbH",
-  "url": "https://treffer-heizoel.de",
+  "name": "Hackmann-Heizöl",
+  "alternateName": "Hackmann & Comp. GmbH",
+  "url": "https://hackmann-heizoel.de",
   "logo": "/lovable-uploads/treffer-logo.png",
   "contactPoint": {
     "@type": "ContactPoint",
-    "telephone": "+49-221-29291090",
     "contactType": "customer service",
-    "email": "info@treffer-heizoel.de",
+    "email": "info@hackmann-heizoel.de",
     "availableLanguage": "German"
   },
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Anton-Jaumann-Str. 1",
-    "addressLocality": "Buchdorf",
-    "postalCode": "86675",
+    "streetAddress": "Kampstr. 88 b",
+    "addressLocality": "Hannover",
+    "postalCode": "30629",
     "addressCountry": "DE"
   },
   "foundingDate": "1975",
@@ -43,22 +42,21 @@ export const companyStructuredData = {
 export const localBusinessStructuredData = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "name": "Treffer Heizöl",
+  "name": "Hackmann-Heizöl",
   "image": "/lovable-uploads/treffer-logo.png",
-  "@id": "https://treffer-heizoel.de",
-  "url": "https://treffer-heizoel.de",
-  "telephone": "+49-221-29291090",
+  "@id": "https://hackmann-heizoel.de",
+  "url": "https://hackmann-heizoel.de",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Anton-Jaumann-Str. 1",
-    "addressLocality": "Buchdorf",
-    "postalCode": "86675",
+    "streetAddress": "Kampstr. 88 b",
+    "addressLocality": "Hannover",
+    "postalCode": "30629",
     "addressCountry": "DE"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 48.6734,
-    "longitude": 10.8652
+    "latitude": 52.4047,
+    "longitude": 9.7681
   },
   "openingHoursSpecification": {
     "@type": "OpeningHoursSpecification",

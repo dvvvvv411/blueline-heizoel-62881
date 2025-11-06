@@ -6,10 +6,10 @@ const Impressum = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       <SEO
-        title="Impressum | Treffer Heizöl | Rechtliche Angaben"
-        description="Impressum der Treffer Heizöl (Treffer GmbH) - Alle rechtlichen Angaben, Kontaktdaten und Registereintrag. Amtsgericht Augsburg HRB 322."
-        keywords="Impressum, Treffer Heizöl, Buchdorf, HRB 322, rechtliche Angaben"
-        canonicalUrl="https://treffer-heizoel.de/impressum"
+        title="Impressum | Hackmann-Heizöl | Rechtliche Angaben"
+        description="Impressum der Hackmann-Heizöl (Hackmann & Comp. GmbH) - Alle rechtlichen Angaben, Kontaktdaten und Registereintrag. Amtsgericht Hannover HRB 51477."
+        keywords="Impressum, Hackmann-Heizöl, Hannover, HRB 51477, rechtliche Angaben"
+        canonicalUrl="https://hackmann-heizoel.de/impressum"
       />
       <Header />
       
@@ -22,9 +22,9 @@ const Impressum = () => {
               <section>
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Angaben gemäß § 5 TMG</h2>
                 <div className="space-y-2">
-                  <p><strong>Treffer Heizöl (Treffer GmbH)</strong></p>
-                  <p>Anton-Jaumann-Str. 1</p>
-                  <p>86675 Buchdorf</p>
+                  <p><strong>Hackmann-Heizöl (Hackmann & Comp. GmbH)</strong></p>
+                  <p>Kampstr. 88 b</p>
+                  <p>30629 Hannover</p>
                   <p>Deutschland</p>
                 </div>
               </section>
@@ -32,8 +32,7 @@ const Impressum = () => {
               <section>
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Kontakt</h2>
                 <div className="space-y-2">
-                  <p><strong>Telefon:</strong> 0221 29291090</p>
-                  <p><strong>E-Mail:</strong> info@treffer-heizoel.de</p>
+                  <p><strong>E-Mail:</strong> info@hackmann-heizoel.de</p>
                 </div>
               </section>
 
@@ -41,23 +40,23 @@ const Impressum = () => {
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Registereintrag</h2>
                 <div className="space-y-2">
                   <p><strong>Eintragung im Handelsregister:</strong></p>
-                  <p>Registergericht: Amtsgericht Augsburg</p>
-                  <p>Registernummer: HRB 322</p>
+                  <p>Registergericht: Amtsgericht Hannover</p>
+                  <p>Registernummer: HRB 51477</p>
                 </div>
               </section>
 
               <section>
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Umsatzsteuer-ID</h2>
                 <p>Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:</p>
-                <p><strong>DE427997071</strong></p>
+                <p><strong>DE427997629</strong></p>
               </section>
 
               <section>
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
                 <div className="space-y-2">
-                  <p>Treffer Heizöl (Treffer GmbH)</p>
-                  <p>Anton-Jaumann-Str. 1</p>
-                  <p>86675 Buchdorf</p>
+                  <p>Hackmann-Heizöl (Hackmann & Comp. GmbH)</p>
+                  <p>Kampstr. 88 b</p>
+                  <p>30629 Hannover</p>
                 </div>
               </section>
 

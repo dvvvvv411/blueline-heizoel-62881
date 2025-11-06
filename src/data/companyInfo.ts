@@ -1,24 +1,24 @@
 export const companyInfo = {
   // Brand Information
-  brandName: "Treffer Heizöl",
-  legalName: "Treffer GmbH",
+  brandName: "Hackmann-Heizöl",
+  legalName: "Hackmann & Comp. GmbH",
   
   // Address
-  street: "Anton-Jaumann-Str. 1",
-  postalCode: "86675",
-  city: "Buchdorf",
+  street: "Kampstr. 88 b",
+  postalCode: "30629",
+  city: "Hannover",
   country: "DE",
   
   // Contact Information
-  email: "info@treffer-heizoel.de",
-  phoneDisplay: "0221 29291090",
-  phoneIntl: "+49 221 29291090",
-  phoneTel: "+4922129291090",
+  email: "info@hackmann-heizoel.de",
+  phoneDisplay: "",
+  phoneIntl: "",
+  phoneTel: "",
   
   // Legal Information
-  court: "Amtsgericht Augsburg",
-  hrb: "HRB 322",
-  vatId: "DE427997071",
+  court: "Amtsgericht Hannover",
+  hrb: "HRB 51477",
+  vatId: "DE427997629",
   ceo: "",
   
   // Business Information
@@ -28,17 +28,17 @@ export const companyInfo = {
   // Assets
   logo: "/lovable-uploads/treffer-logo.png",
   
-  // Geographic Coordinates (Buchdorf, near Anton-Jaumann-Str. 1)
+  // Geographic Coordinates (Hannover, Kampstr. 88 b)
   geo: {
-    lat: 48.6734,
-    lng: 10.8652
+    lat: 52.4047,
+    lng: 9.7681
   },
   
   // Website
-  website: "https://treffer-heizoel.de",
+  website: "https://hackmann-heizoel.de",
   
   // Full address string
-  fullAddress: "Anton-Jaumann-Str. 1, 86675 Buchdorf",
+  fullAddress: "Kampstr. 88 b, 30629 Hannover",
   
   // Company description
   shortDescription: "Ihr vertrauensvoller Partner für hochwertiges Heizöl. Deutschlandweite Premium-Lieferung ab 70 Cent pro Liter.",
