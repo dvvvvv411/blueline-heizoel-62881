@@ -22,8 +22,8 @@ export const companyInfo = {
   ceo: "",
   
   // Business Information
-  foundingYear: "1975",
-  yearsOfExperience: "50+",
+  foundingYear: "1990",
+  yearsOfExperience: "35+",
   
   // Assets
   logo: "/lovable-uploads/treffer-logo.png",

@@ -17,7 +17,7 @@ const Index = () => {
       <SEO
         title="Hackmann-Heizöl | Premium Heizöl ab 70 Cent/L | Kostenlose Lieferung ab 2.000L"
         description="Premium Heizöl ab 70 Cent pro Liter mit kostenloser Lieferung ab 2.000L deutschlandweit. Jetzt Preis berechnen!"
-        keywords="Heizöl günstig, Heizöl bestellen, Heizöl Lieferung Deutschland, günstige Heizölpreise, Heizöl online kaufen, Frankfurt am Main, Hannover"
+        keywords="Heizöl günstig, Heizöl bestellen, Heizöl Lieferung Deutschland, günstige Heizölpreise, Heizöl online kaufen, Hannover"
         structuredData={structuredData}
         canonicalUrl="https://hackmann-heizoel.de/"
       />

@@ -76,7 +76,7 @@ const HeroSection = () => {
             <div className="flex flex-wrap gap-3">
               <div className="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm border border-gray-200 rounded-full px-4 py-2 shadow-sm">
                 <Award className="w-4 h-4 text-[#48dbfb]" />
-                <span className="text-sm font-medium text-gray-700">Seit 1975 – 50 Jahre Expertise</span>
+                <span className="text-sm font-medium text-gray-700">Seit 1990 – 35 Jahre Expertise</span>
               </div>
               <div className="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm border border-gray-200 rounded-full px-4 py-2 shadow-sm">
                 <div className="flex">
@@ -94,7 +94,7 @@ const HeroSection = () => {
                 <h1 className="text-5xl lg:text-6xl xl:text-7xl font-black text-gray-900 leading-[0.9] tracking-tight">
                   <span className="text-[#48dbfb] font-black">Günstigster Heizöl-Anbieter</span>
                   <br />
-                  <span className="text-4xl lg:text-5xl xl:text-6xl font-bold text-gray-600">aus Frankfurt am Main für ganz Deutschland</span>
+                  <span className="text-4xl lg:text-5xl xl:text-6xl font-bold text-gray-600">aus Hannover für ganz Deutschland</span>
                 </h1>
                 <div className="w-24 h-1 bg-gradient-to-r from-[#48dbfb] to-[#58e6ff] rounded-full"></div>
               </div>
@@ -102,7 +102,7 @@ const HeroSection = () => {
               <h2 className="text-2xl lg:text-3xl text-gray-700 font-light leading-relaxed">
                 Premium Heizöl ab <span className="font-bold text-[#48dbfb]">70 Cent pro Liter</span>
                 <br />
-                <span className="text-xl text-gray-600">Kostenlose Lieferung ab 2.000L – von Frankfurt am Main nach ganz Deutschland</span>
+                <span className="text-xl text-gray-600">Kostenlose Lieferung ab 2.000L – von Hannover nach ganz Deutschland</span>
               </h2>
             </div>
 
@@ -145,13 +145,13 @@ const HeroSection = () => {
             {/* CTA Section */}
             <div className="space-y-4">
               <p className="text-xl text-gray-700 leading-relaxed">
-                Seit 1975 liefern wir als traditionsreicher Heizöl-Händler aus Frankfurt am Main Premium-Qualität 
+                Seit 1990 liefern wir als traditionsreicher Heizöl-Händler aus Hannover Premium-Qualität 
                 zu<span className="font-semibold text-[#48dbfb]"> bis zu 30% günstigeren Preisen</span> als lokale Anbieter – deutschlandweit. 
-                50 Jahre Erfahrung garantieren höchste Qualität und Zuverlässigkeit.
+                35 Jahre Erfahrung garantieren höchste Qualität und Zuverlässigkeit.
               </p>
               <div className="flex items-center gap-2 text-sm text-gray-600">
                 <div className="w-2 h-2 bg-[#48dbfb] rounded-full animate-pulse"></div>
-                <span>Von Frankfurt am Main aus vertrauen über 100.000 Kunden bundesweit auf unsere Qualität</span>
+                <span>Von Hannover aus vertrauen über 100.000 Kunden bundesweit auf unsere Qualität</span>
               </div>
             </div>
           </div>

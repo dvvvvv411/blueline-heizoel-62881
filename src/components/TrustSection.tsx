@@ -39,9 +39,9 @@ const TrustSection = () => {
     },
     {
       icon: Award,
-      value: "50+",
+      value: "35+",
       label: "Jahre Expertise",
-      sublabel: "seit 1975",
+      sublabel: "seit 1990",
       color: "from-[#58e6ff] to-[#48dbfb]"
     },
     {
@@ -84,7 +84,7 @@ const TrustSection = () => {
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
             Hackmann-Heizöl beliefert über 100.000 zufriedene Kunden in ganz Deutschland. 
-            Aus Frankfurt am Main heraus liefern wir Premium-Heizöl bundesweit – lesen Sie, was unsere Kunden sagen.
+            Aus Hannover heraus liefern wir Premium-Heizöl bundesweit – lesen Sie, was unsere Kunden sagen.
           </p>
         </div>
 

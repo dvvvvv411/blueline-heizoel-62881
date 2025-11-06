@@ -13,7 +13,7 @@ const USPSection = () => {
     {
       icon: Truck,
       title: "Kostenlose Lieferung ab 2.000L",
-      description: "Von Frankfurt am Main aus liefern wir deutschlandweit kostenfrei ab 2.000L. Zuverlässige Premium-Anlieferung zu Ihrem Wunschtermin – egal wo in Deutschland Sie sind.",
+      description: "Von Hannover aus liefern wir deutschlandweit kostenfrei ab 2.000L. Zuverlässige Premium-Anlieferung zu Ihrem Wunschtermin – egal wo in Deutschland Sie sind.",
       highlight: "Deutschlandweit",
       accent: "from-red-500 to-rose-600"
     },
@@ -48,7 +48,7 @@ const USPSection = () => {
             Warum <span className="gradient-text">Hackmann-Heizöl</span>?
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Seit 1975 – Ihr Partner für Premium Heizöl aus Frankfurt am Main. 50 Jahre Erfahrung, auf die Sie sich verlassen können.
+            Seit 1990 – Ihr Partner für Premium Heizöl aus Hannover. 35 Jahre Erfahrung, auf die Sie sich verlassen können.
           </p>
         </div>
 

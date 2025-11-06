@@ -12,7 +12,7 @@ const HeizoelSorten = () => {
       <SEO
         title="Heizöl-Sorten | Standard & Premium Heizöl | Hackmann-Heizöl"
         description="Hochwertige Heizöl-Sorten: Standard Heizöl EL ab 70 Cent/L und Premium Heizöl Plus ab 73 Cent/L. Schwefelarm, DIN-Norm konform. Jetzt bestellen!"
-        keywords="Heizöl Sorten, Standard Heizöl EL, Premium Heizöl Plus, schwefelarmes Heizöl, DIN 51603-1, Frankfurt am Main, Hannover"
+        keywords="Heizöl Sorten, Standard Heizöl EL, Premium Heizöl Plus, schwefelarmes Heizöl, DIN 51603-1, Hannover"
         canonicalUrl="https://hackmann-heizoel.de/heizoelsorten"
       />
       <Header />
