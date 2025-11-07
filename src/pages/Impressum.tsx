@@ -32,6 +32,7 @@ const Impressum = () => {
               <section>
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Kontakt</h2>
                 <div className="space-y-2">
+                  <p><strong>Telefon:</strong> 0511 16653346</p>
                   <p><strong>E-Mail:</strong> info@hackmann-heizoel.de</p>
                 </div>
               </section>

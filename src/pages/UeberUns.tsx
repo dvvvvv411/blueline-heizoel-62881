@@ -299,6 +299,12 @@ const UeberUns = () => {
                   
                   <div className="p-4 bg-white/60 rounded-xl border border-white/40">
                     <p className="text-gray-700">
+                      <strong className="text-primary">Telefon:</strong> 0511 16653346
+                    </p>
+                  </div>
+                  
+                  <div className="p-4 bg-white/60 rounded-xl border border-white/40">
+                    <p className="text-gray-700">
                       <strong className="text-primary">E-Mail:</strong> info@hackmann-heizoel.de
                     </p>
                   </div>

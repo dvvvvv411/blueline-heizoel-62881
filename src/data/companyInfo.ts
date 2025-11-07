@@ -11,9 +11,9 @@ export const companyInfo = {
   
   // Contact Information
   email: "info@hackmann-heizoel.de",
-  phoneDisplay: "",
-  phoneIntl: "",
-  phoneTel: "",
+  phoneDisplay: "0511 16653346",
+  phoneIntl: "+49 511 16653346",
+  phoneTel: "tel:+4951116653346",
   
   // Legal Information
   court: "Amtsgericht Hannover",
