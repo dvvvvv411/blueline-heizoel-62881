@@ -13,6 +13,7 @@ export default defineConfig(({ mode }) => ({
       clientPort: 443,
       host: 'hackmann-heizoel.de',
     },
+    allowedHosts: ['hackmann-heizoel.de', 'www.hackmann-heizoel.de'],
   },
   preview: {
     host: "::",
